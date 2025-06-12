@@ -6,6 +6,7 @@
   ],
   "settings": {
     "vim.vimrc.enable": false,
-    "workbench.colorTheme": "One Monokai"
+    "workbench.colorTheme": "One Monokai",
+    "workbench.iconTheme": "vs-seti"
   }
 }
