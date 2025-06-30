@@ -213,6 +213,15 @@ button {
   right: 50px;
 }
 
+h1::first-letter {
+  font-style: normal;
+  margin-right: 5px;
+}
+
+p::first-line {
+  color: red;
+}
+
 /* Resolving conflicts */
 /* #copyright {
   color: red;
