@@ -87,7 +87,6 @@ p {
   font-size: 22px;
   line-height: 1.5;
   margin-bottom: 15px;
-  /* display: inline; */
 }
 
 ul,
@@ -138,6 +137,10 @@ li:last-child {
 
 /* body {
   background-color: orangered;
+} */
+
+/* .first-li {
+  font-weight: bold;
 } */
 
 li:first-child {
@@ -218,9 +221,9 @@ h1::first-letter {
   margin-right: 5px;
 }
 
-h3 + p::first-line {
+/* h3 + p::first-line {
   color: red;
-}
+} */
 
 h2 {
   /* background-color: orange; */
